@@ -1,0 +1,6 @@
+127.0.0.1 - frank [10/Oct/2023:13:55:36 -0700] "GET /apache_pb.gif HTTP/1.0" 200 2326
+127.0.0.1 - john [10/Oct/2023:13:55:40 -0700] "GET /logo.gif HTTP/1.0" 404 1980
+127.0.0.1 - emily [10/Oct/2023:13:56:40 -0700] "GET /animation.gif HTTP/1.0" 200 6543
+127.0.0.1 - frank [10/Oct/2023:13:58:36 -0700] "GET /apache_pb.gif HTTP/1.0" 200 2326
+127.0.0.1 - sarah [10/Oct/2023:13:59:50 -0700] "GET /another_image.png HTTP/1.0" 404 980
+127.0.0.1 - frank [10/Oct/2023:14:00:36 -0700] "GET /animation.gif HTTP/1.0" 500 1234
